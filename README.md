@@ -9,9 +9,9 @@ NULL
 
 ## Installation
 To get started with the Cybersecurity Insurance Comparator for SMEs, follow these instructions:
+
 NULL
 
 ### Clone the Repository
 
 git clone https://github.com/yourusername/cybersecurity-insurance-comparator.git
-cd cybersecurity-insurance-comparator
