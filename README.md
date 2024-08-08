@@ -14,4 +14,4 @@ NULL
 
 ### Clone the Repository
 
-git clone https://github.com/yourusername/cybersecurity-insurance-comparator.git
+git clone https://github.com/aarizkhanshaikh/cybersecurity-insurance-comparator.git
